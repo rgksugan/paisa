@@ -1,5 +1,23 @@
 # CHANGELOG
 
+### 0.7.4 (2025-02-23)
+* Update price data domain
+* Fix NixOS build
+
+### 0.7.3 (2025-02-23)
+
+* Fix yahoo price fetcher
+* Build fixes
+
+### 0.7.1 (2024-10-20)
+
+* Fix remote code execution [vulnerability](https://github.com/ananthakumaran/paisa/issues/294)
+
+### 0.7.0 (2024-08-26)
+
+* Add [docker image variant](https://github.com/ananthakumaran/paisa/pull/274) for hledger and beancount
+* Bug fixes
+
 ### 0.6.6 (2024-02-10)
 
 * Improve tables (make it sortable)
